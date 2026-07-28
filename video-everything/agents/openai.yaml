@@ -1,4 +1,0 @@
-interface:
-  display_name: "Video Everything — 動画、全部やる"
-  short_description: "原本探しからAI生成・編集・字幕・音・検品まで一気通貫"
-  default_prompt: "Use $video-everything to turn this URL, footage, audio, text, or idea into a polished and verified final video."
